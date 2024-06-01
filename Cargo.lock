@@ -747,7 +747,6 @@ checksum = "9c198f91728a82281a64e1f4f9eeb25d82cb32a5de251c6bd1b5154d63a8e7bd"
 [[package]]
 name = "libdragon"
 version = "0.1.0"
-source = "git+https://github.com/sarchar/libdragon-rs.git#63ca18261973ae9b80749f9a7cd5f75d7755c7b4"
 dependencies = [
  "bitflags 2.5.0",
  "cstr_core",
@@ -761,7 +760,6 @@ dependencies = [
 [[package]]
 name = "libdragon-build"
 version = "0.1.0"
-source = "git+https://github.com/sarchar/libdragon-rs.git#63ca18261973ae9b80749f9a7cd5f75d7755c7b4"
 dependencies = [
  "execute",
  "glob",
@@ -778,7 +776,6 @@ dependencies = [
 [[package]]
 name = "libdragon-sys"
 version = "0.1.0"
-source = "git+https://github.com/sarchar/libdragon-rs.git#63ca18261973ae9b80749f9a7cd5f75d7755c7b4"
 dependencies = [
  "bindgen",
  "doxygen-rs",
