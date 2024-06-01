@@ -8,7 +8,7 @@ This project is a skeleton project meant to kickoff new [libdragon-rs](https://g
 3. Install Justfile:
 `cargo install just`
 4. Clone this repo:
-`git clone https://github.com/sarchar/libdragon-rs-template`
+`git clone --recurse-submodules https://github.com/sarchar/libdragon-rs-template`
 5. Build this repo:
 `cd libdragon-rs-template && just build`
 
